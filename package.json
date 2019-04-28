@@ -1,0 +1,12 @@
+{
+  "name": "rosetta-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@bdeefe/lightblue-plugin-generator": "^0.0.190"
+  },
+  "dependencies": {
+    "ant-design": "^1.0.0"
+  }
+}
+
